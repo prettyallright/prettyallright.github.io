@@ -1,3 +1,3 @@
 # prettyallright.dev
 
-Copyright &copy; 2021, PRETTY ALL RIGHT LLC
+Copyright &copy; PRETTY ALL RIGHT LLC 2021 All Rights Reserved
